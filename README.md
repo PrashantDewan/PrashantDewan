@@ -1,3 +1,4 @@
+![logo](https://github.com/PrashantDewan/PrashantDewan/blob/main/banner%203.0.png)
 
 <h1 align="center">Hi 👋, I'm Prashant dewan</h1>
 <h3 align="center">A passionate full stack developer from Nepal</h3>
