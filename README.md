@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **Am i serious !!**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashantdewan" alt="prashantdewan" /></a> </p>
+<p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashantdewan" alt="prashantdewan" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
