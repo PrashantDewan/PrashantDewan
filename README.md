@@ -5,7 +5,7 @@
 
 
  
-<p align="left"> <img src="https://raw.githubusercontent.com/gist/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif" alt="prashantdewan" /> </p>
+<p align="right"> <img src="https://raw.githubusercontent.com/gist/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif" alt="prashantdewan" /> </p>
 
 
 
